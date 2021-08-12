@@ -1,0 +1,59 @@
+.headline {
+  position: relative;
+  width: 1140px;
+  margin: auto;
+  margin-top: 76px;
+  padding-bottom: 77px;
+  display: flex;
+}
+
+.headline__content {
+  position: absolute;
+  z-index: 1;
+}
+
+.headline__title {
+  font-size: 80px;
+  line-height: 78px;
+  letter-spacing: -0.5px;
+  width: 754px;
+  height: 165px;
+  margin: 0;
+}
+
+.headline__description {
+  font-size: 24px;
+  line-height: 34px;
+  width: 456px;
+  height: 102px;
+  margin-bottom: 0;
+  margin-top: 34px;
+}
+
+.headline__banner {
+  top: 8px;
+  width: 796px;
+  height: 448px;
+  position: relative;
+  margin-left: auto;
+  right: -105px;
+}
+
+.headline__actions {
+  margin-top: 58px;
+  display: flex;
+}
+
+.headline__learn-more-btn {
+  height: 48px;
+  width: 158px;
+  margin-left: 10px;
+  color: #ffffff;
+  border-radius: 2px;
+  border: none;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 13px;
+  color: #3040c4;
+}
