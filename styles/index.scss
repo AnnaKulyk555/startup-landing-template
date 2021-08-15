@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  font-family: 'Work Sans', sans-serif;
+  color: #2b292d;
+}
+
+@import 'breakpoints.scss';
+@import 'variables.scss';
+@import 'about.scss';
+@import 'audience.scss';
+@import 'common.scss';
+@import 'customers.scss';
+@import 'features.scss';
+@import 'footer.scss';
+@import 'headline.scss';
+@import 'tips.scss';
+@import 'tips.scss';
+@import 'header.scss';
+
+.page {
+  width: 100%;
+  overflow-x: hidden;
+
+  @include for-large-up {
+    width: 1400px;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+}
