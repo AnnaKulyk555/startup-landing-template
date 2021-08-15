@@ -30,4 +30,14 @@
   .learn-more-btn {
     width: 158px;
   }
+
+  .hide-desktop {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 399px) {
+  .hide-mobile {
+    display: none;
+  }
 }
