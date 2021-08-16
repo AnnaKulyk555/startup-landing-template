@@ -1,4 +1,6 @@
 .headline {
+  padding-bottom: 36px;
+
   @include for-large-up {
     display: flex;
     position: relative;
