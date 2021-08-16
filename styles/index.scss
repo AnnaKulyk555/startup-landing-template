@@ -20,10 +20,10 @@ html {
 @import 'tips.scss';
 @import 'tips.scss';
 @import 'header.scss';
+@import 'order.scss';
 
 .page {
   width: 100%;
-  overflow-x: hidden;
 
   @include for-large-up {
     width: 1400px;
