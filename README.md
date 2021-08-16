@@ -18,4 +18,4 @@ BEM methodology
 
 ## Author:
 
-Hanna Kylyk
+Hanna Kulyk
