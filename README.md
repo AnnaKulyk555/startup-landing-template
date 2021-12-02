@@ -1,6 +1,6 @@
 # Startup Landing Template
 
-https://annakulyk555.github.io/startup-landing-template/
+[active link](https://annakulyk555.github.io/startup-landing-template/ 'GitHub pages')
 
 Layout supports mobile (up-to-320) and desktop (up-to-1400) versions
 
